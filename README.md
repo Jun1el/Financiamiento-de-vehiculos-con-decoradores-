@@ -33,9 +33,11 @@ El sistema permite:
    - `tkinter` (incluido con Python).
    - `functools` (incluido con Python).
    - `logging` (incluido con Python).
+   
+---
 
-### **Descargar proyecto y ejecutar **
-por GUI
-python main_gui.py
-por Consola
-python main_console.py
+### **Descargar proyecto y ejecutar**
+1.por GUI
+   -python main_gui.py
+2.por Consola
+   -python main_console.py

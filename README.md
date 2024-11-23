@@ -36,8 +36,14 @@ El sistema permite:
    
 ---
 
-### **Descargar proyecto y ejecutar**
-1.por GUI:
-   -python main_gui.py
-2.por Consola:
-   -python main_console.py
+## **Cómo Ejecutar**
+
+### **Ejecutar en Consola**
+1. Navega al archivo principal de la consola:
+   ```bash
+   python main_console.py
+
+### **Ejecutar en GUI**
+1. Navega al archivo principal de la consola:
+   ```bash
+   python main_gui.py

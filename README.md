@@ -37,7 +37,7 @@ El sistema permite:
 ---
 
 ### **Descargar proyecto y ejecutar**
-1.por GUI
+1.por GUI:
    -python main_gui.py
-2.por Consola
+2.por Consola:
    -python main_console.py
